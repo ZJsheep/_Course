@@ -2,7 +2,7 @@
 - 缪勒-莱耶错觉
 - 模式识别：以整体的方式来加工信息
 - 意识：觉察、主观体验
-- ![[认知科学导论/Pasted image 20220215110930.png]]![[认知科学导论/Pasted image 20220215111112.png]]
+- ![[认知科学导论/attachments/Pasted image 20220215110930.png]]![[认知科学导论/attachments/Pasted image 20220215111112.png]]
 ### 信息加工模型
 - 模型
 	- 系列阶段

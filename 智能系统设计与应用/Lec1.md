@@ -15,10 +15,10 @@
 	- 但是在人脸中始终是外插值，因为脸的边界在骨头外面
 	- 内插法：
 	- 外插法：
-		- ![[智能系统设计与应用/Pasted image 20220214105417.png]]
+		- ![[智能系统设计与应用/attachments/Pasted image 20220214105417.png]]
 		- 用第二三项控制 w 的大小
 		- 求解：消去分支选择
-		- ![[智能系统设计与应用/Pasted image 20220214110636.png]]
+		- ![[智能系统设计与应用/attachments/Pasted image 20220214110636.png]]
 		- 最终目标
-		- ![[智能系统设计与应用/Pasted image 20220214112431.png]]
-		- ![[智能系统设计与应用/Pasted image 20220214112632.png]]
+		- ![[智能系统设计与应用/attachments/Pasted image 20220214112431.png]]
+		- ![[智能系统设计与应用/attachments/Pasted image 20220214112632.png]]

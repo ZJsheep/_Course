@@ -1,0 +1,2 @@
+![[知识表示与处理KR/attachments/Pasted image 20220216101317.png]]![[知识表示与处理KR/attachments/Pasted image 20220216101905.png]]![[知识表示与处理KR/attachments/Pasted image 20220216102102.png]]![[知识表示与处理KR/attachments/Pasted image 20220216102333.png]]
+闭卷 英文

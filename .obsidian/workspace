@@ -7,11 +7,9 @@
         "id": "ca71f9aa2970169c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "智能系统设计与应用/Lec3.md",
-            "mode": "source",
-            "source": false
+            "file": "Pasted image 20220222114717.png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "智能系统设计与应用/Lec3.md",
+                "file": "Pasted image 20220222114717.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +84,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "智能系统设计与应用/Lec3.md",
+                "file": "Pasted image 20220222114717.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "智能系统设计与应用/Lec3.md"
+                "file": "Pasted image 20220222114717.png"
               }
             }
           }
@@ -122,15 +120,15 @@
   },
   "active": "ca71f9aa2970169c",
   "lastOpenFiles": [
+    "Pasted image 20220222114717.png",
+    "知识表示与处理KR/Lec2.md",
+    "知识表示与处理KR/Lec1.md",
+    "知识表示与处理KR/Lec0.md",
+    "教材.pdf",
     "智能系统设计与应用/Lec3.md",
+    "机器学习导论/1.绪论.md",
     "实变函数和泛函分析/Pasted image 20220222152407.png",
     "实变函数和泛函分析/Pasted image 20220222152122.png",
-    "气候变化科学概论/attachments/Pasted image 20220222184648.png",
-    "气候变化科学概论/Lec1.md",
-    "机器人/Lec1.md",
-    "机器人/Lec0.md",
-    "机器人/attachments/Pasted image 20220218150404.png",
-    "概率论和数理统计/LectureNote.pdf",
-    "操作系统OS/Lec0.md"
+    "气候变化科学概论/attachments/Pasted image 20220222184648.png"
   ]
 }
