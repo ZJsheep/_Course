@@ -7,9 +7,11 @@
         "id": "ca71f9aa2970169c",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Pasted image 20220222114717.png"
+            "file": "机器人/Lec0.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20220222114717.png",
+                "file": "机器人/Lec0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20220222114717.png",
+                "file": "机器人/Lec0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,28 +109,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20220222114717.png"
+                "file": "机器人/Lec0.md"
               }
             }
+          },
+          {
+            "id": "36beb3cf8a39c219",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 251.42864990234375
   },
   "active": "ca71f9aa2970169c",
   "lastOpenFiles": [
-    "Pasted image 20220222114717.png",
-    "知识表示与处理KR/Lec2.md",
-    "知识表示与处理KR/Lec1.md",
-    "知识表示与处理KR/Lec0.md",
-    "教材.pdf",
-    "智能系统设计与应用/Lec3.md",
-    "机器学习导论/1.绪论.md",
-    "实变函数和泛函分析/Pasted image 20220222152407.png",
-    "实变函数和泛函分析/Pasted image 20220222152122.png",
-    "气候变化科学概论/attachments/Pasted image 20220222184648.png"
+    "机器人/Lec0.md",
+    "机器人/Lec3.md",
+    "机器人/Lec1.md",
+    "机器人/Lec2.md",
+    "操作系统OS/2.Processes&Threads.md",
+    "操作系统OS/1.Intro&Outline.md",
+    "操作系统OS/2.Outline.md",
+    "毛泽东思想和中国特色社会主义理论体系概论/Lec0.md",
+    "Untitled.md",
+    "Lec1.md"
   ]
 }

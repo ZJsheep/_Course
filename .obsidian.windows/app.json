@@ -1,0 +1,13 @@
+{
+  "legacyEditor": false,
+  "foldHeading": true,
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "./attachments",
+  "foldIndent": true,
+  "readableLineLength": true,
+  "showUnsupportedFiles": true,
+  "communityThemeSortOrder": "download",
+  "communityPluginSortOrder": "download",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
+}

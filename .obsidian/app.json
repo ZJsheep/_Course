@@ -8,5 +8,6 @@
   "showUnsupportedFiles": true,
   "communityThemeSortOrder": "download",
   "communityPluginSortOrder": "download",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }
