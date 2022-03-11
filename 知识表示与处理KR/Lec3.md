@@ -10,3 +10,7 @@
 ### Interpretations
 - Interpretations is a tuple $I=(\Delta^I, \cdot^I)$, where non-empty set $\Delta^I$ is the domain.
 - $\cdot^I$ 解释函数
+
+### Complex Expressions
+- 命题逻辑不能处理结构化的问题
+- 原子概念和复杂概念之间的关系

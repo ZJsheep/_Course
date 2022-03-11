@@ -112,14 +112,6 @@
                 "file": "操作系统OS/2.Processes&Threads.md"
               }
             }
-          },
-          {
-            "id": "36beb3cf8a39c219",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
         "currentTab": 3
@@ -131,14 +123,14 @@
   "active": "ca71f9aa2970169c",
   "lastOpenFiles": [
     "操作系统OS/2.Processes&Threads.md",
+    "现代音乐历史与流派/ref.md",
+    "操作系统OS/attachments/Chapter02-Processes and Threads.pdf",
     "认知科学导论/Lec1.md",
-    "智能系统设计与应用/Lec4.md",
-    "毛泽东思想和中国特色社会主义理论体系概论/Lec0.md",
-    "机器学习导论/1.绪论.md",
-    "机器学习导论/2.模型的评估和选择.md",
-    "机器人/Lec0.md",
-    "机器人/Lec3.md",
-    "机器人/Lec1.md",
-    "机器人/Lec2.md"
+    "认知科学导论/attachments/Pasted image 20220215111112.png",
+    "知识表示与处理KR/Lec4.md",
+    "教材.pdf",
+    "Pasted image 20220222114717.png",
+    "知识表示与处理KR/Lec3.md",
+    "智能系统设计与应用/Lec4.md"
   ]
 }

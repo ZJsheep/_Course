@@ -1,0 +1,22 @@
+# ALC Description Language
+- 决定性：一定能返回结果
+- syntax：ppt
+	- class:
+		- Concept name: 原子性概念
+		- 二元关系
+		- 全域
+		- 空集
+		- and
+		- exist
+		- for all
+		- or
+		- negation
+	- 该语言是递归定义的
+- Examples of
+	- 第一条 vs 第二条：如果有个人没有孩子，它属于1而不属于2
+- semantics
+	- $\forall r.A$：二元关系 r 的第一元的集合，which 第二元属于集合 A
+	- $\exists r.A$ 同理
+- zyz 只接受计算性的证明
+- nominal：只含一个元素的集合
+	- 区别于 individual，是集合的元素
