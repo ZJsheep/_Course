@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "操作系统OS/2.Processes&Threads.md",
+            "file": "操作系统OS/3.Sheduling.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260
+    "width": 260,
+    "collapsed": true
   },
   "right": {
     "id": "ced38efaf45ddd32",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统OS/2.Processes&Threads.md",
+                "file": "操作系统OS/3.Sheduling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统OS/2.Processes&Threads.md",
+                "file": "操作系统OS/3.Sheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统OS/2.Processes&Threads.md"
+                "file": "操作系统OS/3.Sheduling.md"
               }
             }
           }
@@ -118,19 +119,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.42864990234375
+    "width": 259.8333435058594
   },
   "active": "ca71f9aa2970169c",
   "lastOpenFiles": [
-    "操作系统OS/2.Processes&Threads.md",
-    "现代音乐历史与流派/ref.md",
-    "操作系统OS/attachments/Chapter02-Processes and Threads.pdf",
-    "认知科学导论/Lec1.md",
-    "认知科学导论/attachments/Pasted image 20220215111112.png",
-    "知识表示与处理KR/Lec4.md",
-    "教材.pdf",
-    "Pasted image 20220222114717.png",
-    "知识表示与处理KR/Lec3.md",
-    "智能系统设计与应用/Lec4.md"
+    "操作系统OS/3.Sheduling.md",
+    "智能系统设计与应用/7.LearningWithMultiModalities.md",
+    "智能系统设计与应用/Case VI.md",
+    "智能系统设计与应用/Case V.md",
+    "智能系统设计与应用/未命名.md",
+    "操作系统OS/4.进程间通信.md",
+    "Day Planners/Day Planner-20220418.md",
+    "Day Planners/Day Planner-20220422.md",
+    "Day Planners/Day Planner-20220420.md",
+    "操作系统OS/3.MemoryManagement.md"
   ]
 }

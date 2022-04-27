@@ -7,9 +7,11 @@
         "id": "ca71f9aa2970169c",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Pasted image 20220222114717.png"
+            "file": "操作系统OS/3.Sheduling.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -51,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260
+    "width": 260,
+    "collapsed": true
   },
   "right": {
     "id": "ced38efaf45ddd32",
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20220222114717.png",
+                "file": "操作系统OS/3.Sheduling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20220222114717.png",
+                "file": "操作系统OS/3.Sheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,28 +110,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20220222114717.png"
+                "file": "操作系统OS/3.Sheduling.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 259.8333435058594
   },
   "active": "ca71f9aa2970169c",
   "lastOpenFiles": [
-    "Pasted image 20220222114717.png",
-    "知识表示与处理KR/Lec2.md",
-    "知识表示与处理KR/Lec1.md",
-    "知识表示与处理KR/Lec0.md",
-    "教材.pdf",
-    "智能系统设计与应用/Lec3.md",
-    "机器学习导论/1.绪论.md",
-    "实变函数和泛函分析/Pasted image 20220222152407.png",
-    "实变函数和泛函分析/Pasted image 20220222152122.png",
-    "气候变化科学概论/attachments/Pasted image 20220222184648.png"
+    "操作系统OS/3.Sheduling.md",
+    "智能系统设计与应用/7.LearningWithMultiModalities.md",
+    "智能系统设计与应用/Case VI.md",
+    "智能系统设计与应用/Case V.md",
+    "智能系统设计与应用/未命名.md",
+    "操作系统OS/4.进程间通信.md",
+    "Day Planners/Day Planner-20220418.md",
+    "Day Planners/Day Planner-20220422.md",
+    "Day Planners/Day Planner-20220420.md",
+    "操作系统OS/3.MemoryManagement.md"
   ]
 }

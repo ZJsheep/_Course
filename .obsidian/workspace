@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "机器人/Lec0.md",
+            "file": "操作系统OS/3.Sheduling.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260
+    "width": 260,
+    "collapsed": true
   },
   "right": {
     "id": "ced38efaf45ddd32",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "机器人/Lec0.md",
+                "file": "操作系统OS/3.Sheduling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "机器人/Lec0.md",
+                "file": "操作系统OS/3.Sheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,16 +110,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "机器人/Lec0.md"
+                "file": "操作系统OS/3.Sheduling.md"
               }
-            }
-          },
-          {
-            "id": "36beb3cf8a39c219",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ],
@@ -126,19 +119,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.42864990234375
+    "width": 259.8333435058594
   },
   "active": "ca71f9aa2970169c",
   "lastOpenFiles": [
-    "机器人/Lec0.md",
-    "机器人/Lec3.md",
-    "机器人/Lec1.md",
-    "机器人/Lec2.md",
-    "操作系统OS/2.Processes&Threads.md",
-    "操作系统OS/1.Intro&Outline.md",
-    "操作系统OS/2.Outline.md",
-    "毛泽东思想和中国特色社会主义理论体系概论/Lec0.md",
-    "Untitled.md",
-    "Lec1.md"
+    "操作系统OS/3.Sheduling.md",
+    "智能系统设计与应用/7.LearningWithMultiModalities.md",
+    "智能系统设计与应用/Case VI.md",
+    "智能系统设计与应用/Case V.md",
+    "智能系统设计与应用/未命名.md",
+    "操作系统OS/4.进程间通信.md",
+    "Day Planners/Day Planner-20220418.md",
+    "Day Planners/Day Planner-20220422.md",
+    "Day Planners/Day Planner-20220420.md",
+    "操作系统OS/3.MemoryManagement.md"
   ]
 }

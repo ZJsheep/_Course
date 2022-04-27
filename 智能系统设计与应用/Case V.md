@@ -1,0 +1,29 @@
+## Case V: Huawei 水晶语音项目
+- 项目背景
+	- 子特性打开关闭对通信质量的影响
+	- 局点：指某些 locality，（比如江苏电信2
+- 语音通信一般是窄带通信
+- 研究内容
+	- 迁移：指在不同地区之间方案有无可迁移性，用 KNN 做的
+	- LDL：Label Distribution Learning，label 不是一个值而是概率
+- 研究内容
+- 一些背景知识
+	- 特征选择
+		- 减去无关特征
+		- 减去冗余特征
+			- 有时候冗余特征也有用，可以加速学习
+	- 降维
+		- 和特征选择不同，是整个压缩
+		- 方法：PCA(KLT), LDA(FDA), MDS, ...
+			- 前两个是线性的
+- 研究内容
+	- Ridge Regression 脊回归 or 岭回归
+	- 线性回归：$y=Xb$，（最后一个 b 是 bias 的简写）
+	- 伪逆：$(X^TX)^{-1}X^T$
+		- 将 y 投影到 X 的列空间得到 $\hat y$，则有 $\hat y=XB$
+		- $B=(X的伪逆)\hat y$
+		- X 的伪逆就是上述的式子
+	- 岭回归的 Loss RRL=$(y-XB)^T(y-XB)+\lambda B^TB$
+		- $B^TB$ 是正则化项
+	- 则 $XB=UD(D^2+\lambda)^{-1}DU^Ty$，U 是特征值分解得到的矩阵
+	- 只在主要的方向上做投影，shrinkage

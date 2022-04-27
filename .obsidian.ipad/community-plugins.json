@@ -1,4 +1,10 @@
 [
-  "obsidian-minimal-settings",
-  "obsidian-mind-map"
+  "obsidian-hider",
+  "obsidian-pandoc",
+  "media-extended",
+  "obsidian-style-settings",
+  "wikilinks-to-mdlinks-obsidian",
+  "obsidian-kanban",
+  "obsidian-annotator",
+  "obsidian-minimal-settings"
 ]
