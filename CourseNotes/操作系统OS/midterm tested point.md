@@ -1,0 +1,3 @@
+- [ ] 操作系统有哪些架构,说明各自的特点。[✅Structure](1.Intro&Outline.md#Structure)
+- [ ] 简要描述什么是策略与机制的分离,举例说明。[✅ Structure](1.Intro&Outline.md#✅%20Structure)
+- [ ] 什么是进程控制块(PCB),它有哪些主要内容?[Definition](2.Process&Thread.md#Definition)

@@ -1,0 +1,7 @@
+- ABox 的 role assertion 和带有 nomimal 的 TBox 的 concept inclusion 效果差不多
+- 内涵式定义的外延式语义由 interpretation 来体现
+- 知识表示与推理：theoretical soundness vs. 机器学习 empirical success
+	- 知识表示的缺点是1. 很少与真实世界沟通，2. 知识获取无法自动化，构建知识库比较困难
+	- 所以我们需要首先辨别问题适合知识表示和处理还是机器学习
+- 计算机优于人类的地方：1. 计算能力，2. 非人性
+- 我们思考的对象不是现实中的 entity，而是这个 entity 在我们大脑中的一个概念映射(conceptual mapping) 。这个概念映射是用语言来承载的。

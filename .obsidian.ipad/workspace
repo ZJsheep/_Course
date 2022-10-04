@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "f52caf872d48ec46",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca71f9aa2970169c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CourseNotes/机器学习导论/复习.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da5f002e574a781c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d13dff662cbe3dea",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "83f45a336155eb0a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "49bcea762b5379bb",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "27869c36a1b0b519",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "97f72cbeb0da96ed",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "CourseNotes/机器学习导论/复习.md",
+            "collapseAll": false,
+            "extraContext": true,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "60ed8bc35224c6a0",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "CourseNotes/机器学习导论/复习.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "073cb785eabe7411",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "CourseNotes/机器学习导论/复习.md"
+          }
+        }
+      },
+      {
+        "id": "b98d86cafcd19ffd",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 2,
+    "pinned": true
+  },
+  "active": "ca71f9aa2970169c",
+  "lastOpenFiles": [
+    "CourseNotes/机器学习导论/复习.md",
+    "CourseNotes/机器学习导论/1.绪论.md",
+    "CourseNotes/机器学习导论/2.模型的评估和选择.md",
+    "CourseNotes/知识表示与处理KR/keypoint.md",
+    "CourseNotes/知识表示与处理KR/inspiration.md",
+    "CourseNotes/智能系统设计与应用/7.LearningWithMultiModalities.md",
+    "CourseNotes/智能系统设计与应用/未命名.md",
+    "CourseNotes/智能系统设计与应用/Case V.md",
+    "CourseNotes/智能系统设计与应用/Case VI.md",
+    "CourseNotes/毛泽东思想和中国特色社会主义理论体系概论/期末.md"
+  ]
+}

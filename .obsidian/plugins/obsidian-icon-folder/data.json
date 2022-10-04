@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "enableRemixiconsLine": true,
+    "enableRemixiconsFill": true,
+    "enableFontawesomeFill": true,
+    "enableFontawesomeLine": true,
+    "enableFontawesomeBrands": true,
+    "fontSize": 16,
+    "iconColor": "#0080ff",
+    "recentlyUsedIcons": [
+      "RiAccountBoxFill",
+      "RiAlbumFill"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    },
+    "migrated": true,
+    "iconPacksPath": "plugins/obsidian-icon-folder/icons",
+    "rules": []
+  }
+}

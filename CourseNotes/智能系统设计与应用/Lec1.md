@@ -1,0 +1,24 @@
+## Case 1：Quasi-Real Time Bacground Fading in Mobile Video Chat Applications
+- 传统方法：影像技术，Flash and mirrors
+- ML 方法：contour tracking
+	- 脸是非刚体
+	- 但是对于某一些内部的点可以看作刚体（比如眼睛末端、胡子末端
+	- 接下来三个问题：
+		- 边界点的初始位置
+		- 用内部的点去表示边界点（\*）
+		- 如何选择内部点
+			- 有些点信息量小，不适合表示边界的点
+			- 有些点在人脸讲话时很难跟踪到
+	- Interpolation and Extrapolation
+		- 內部插值和外部插值
+		- 内插：受到扰动后变化小，线性组合系数变化小
+	- 但是在人脸中始终是外插值，因为脸的边界在骨头外面
+	- 内插法：
+	- 外插法：
+		- ![[智能系统设计与应用/attachments/Pasted image 20220214105417.png]]
+		- 用第二三项控制 w 的大小
+		- 求解：消去分支选择
+		- ![[智能系统设计与应用/attachments/Pasted image 20220214110636.png]]
+		- 最终目标
+		- ![[智能系统设计与应用/attachments/Pasted image 20220214112431.png]]
+		- ![[智能系统设计与应用/attachments/Pasted image 20220214112632.png]]

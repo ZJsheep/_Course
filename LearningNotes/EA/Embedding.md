@@ -1,0 +1,1 @@
+> [towarddatascience]https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526

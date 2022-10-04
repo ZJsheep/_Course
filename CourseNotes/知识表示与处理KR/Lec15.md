@@ -1,0 +1,11 @@
+- OWLClass
+- OWLProperty
+  - OWLObjectProperty：两个 individual
+  - OWLDataProperty：individual 和 some concrete data
+- OWLAxiom
+  - Annotation Axiom：类似于 meta infomation
+  - Declaration Axiom
+  - Import Axiom
+  - Logical Axiom
+- OWLOntologyFormats
+- OWLReasoner, OWLReasonerFactory

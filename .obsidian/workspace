@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "f52caf872d48ec46",
+    "type": "split",
+    "children": [
+      {
+        "id": "73e623cc96c14372",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "LearningNotes/EA/main.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e42519b84bca883",
+    "type": "split",
+    "children": [
+      {
+        "id": "5278be3fca38b22a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68d8dfcb7cd82a87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "441d286e0e9dd8b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 510
+  },
+  "right": {
+    "id": "6002e0912aaa92b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "28dee1e4df084538",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84102e5339475eed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LearningNotes/EA/main.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d6d1d4d592d2630",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LearningNotes/EA/main.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd998d6aae5052a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "84d7f364b5d8e6b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LearningNotes/EA/main.md"
+              }
+            }
+          },
+          {
+            "id": "7e97aa247de51740",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 402.8333435058594
+  },
+  "active": "73e623cc96c14372",
+  "lastOpenFiles": [
+    "LearningNotes/EA/Intro to Evolutionary Computing.md",
+    "LearningNotes/EA/Embedding.md",
+    "LearningNotes/EA/组里的人.md",
+    "LearningNotes/EA/高斯过程.md",
+    "LearningNotes/EA/多目标贝叶斯优化.md",
+    "LearningNotes/EA/变形金刚.md",
+    "LearningNotes/EA/贝叶斯优化.md",
+    "CourseNotes/体育/lec0.md",
+    "CourseNotes/现代音乐历史与流派/ref.md",
+    "CourseNotes/气候变化科学概论/Lec2.md"
+  ]
+}
